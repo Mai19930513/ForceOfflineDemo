@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ForceOfflineDemo</string>
+    <string name="account">账户</string>
+    <string name="password">密码</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="account_hint">请输入账号</string>
+    <string name="login">登录</string>
+    <string name="Toast_password_error">请输入正确的账号或密码</string>
+    <string name="force_offline">强制注销登录</string>
+    <string name="AlertDialog_title">警告</string>
+</resources>
